@@ -1,0 +1,44 @@
+.bg-custom{
+	background-color:#28a745;
+	color:white;
+}
+.navbar .nav-item .nav-link:hover{
+	background-color:white;
+	
+	color:#28a745;
+	border-radius:15px;
+}
+
+#login{
+	margin-left:150px;
+	margin-top:2px;
+	Color:black;
+	
+}
+#search{
+	width:42px;
+	height:37px
+}
+.text-custom1{
+	color:white;
+}
+.btn-warning:hover{
+	background-color:white;
+	
+	
+}
+ .btn-outline-custom:hover{
+ background-color:white;
+ }
+.social-icon a:hover{
+	color:white;
+}
+
+.cart-link{
+	margin-top:1px;
+}
+
+
+
+
+

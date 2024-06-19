@@ -1,0 +1,20 @@
+.bg-custom{
+	background-color:#28a745;
+	color:white;
+}
+.navbar .nav-item:hover .nav-link{
+	background-color:white;
+	color:#28a745;
+	border-radius:15px;
+}
+.text-custom1{
+	color:white;
+}
+.btn-warning:hover{
+	background-color:white;
+	
+	
+}
+ .btn-outline-custom:hover{
+ background-color:white;
+ }
